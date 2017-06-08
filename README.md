@@ -18,7 +18,7 @@ div(4, 2)
 div(1, 0)
 ```
 
-```shell
+```console
 $ python demo.py
 calling div(x=4, y=2)
   calling do_div(x=4, y=2)
